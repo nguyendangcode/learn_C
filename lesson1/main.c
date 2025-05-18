@@ -26,5 +26,5 @@ void phuong_trinh_bac_2(float a,float b,float c) {
 }
 int main() {
 	phuong_trinh_bac_2(0, 0, -50); 
-	return 0; 
+	return 0;
 }
